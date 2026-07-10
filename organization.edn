@@ -1,0 +1,12 @@
+;; Real-world organization location / contact.
+;; :head-role is institutional title only — no personal names.
+{:ooyake-id "gov.dom"
+  :official-url "https://www.dominicanrepublic.com/"
+  :name-en "Dominican Republic"
+  :name-local "República Dominicana"
+  :wikidata "Q786"
+  :head-role-note "institutional office title only; personal names of current office-holders are intentionally NOT stored"
+  :contact-page "https://www.wikidata.org/wiki/Q34820"
+  :sourced-from "com-etzhayyim-ooyake gov-units (verbatim where present)"
+  :hq {:line-en "Santo Domingo" :country "dom" :kind "capital" :provenance "https://www.wikidata.org/wiki/Q34820" :last-verified "2026-06-04" :sourcing "authoritative"}
+}
