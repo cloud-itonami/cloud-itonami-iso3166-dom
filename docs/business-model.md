@@ -8,7 +8,7 @@ Independent public-sector market-entry compliance for the Dominican Republic.
   340-06 (Art. 247 Derogación), and its Reglamento de Aplicación,
   Decreto 52-26 (28 January 2026); SECP (Sistema Electrónico de
   Contrataciones Públicas) e-procurement tooling; comprasdominicana.gob.do
-  redirects to www.dgcp.gob.do (see `src/marketentry/facts.cljc`)
+  redirects to www.dgcp.gob.do (see `src/marketentry/facts.kotoba`)
 - RPE (Registro de Proveedores del Estado) supplier registration --
   does not expire but becomes outdated based on deposited-document
   expiry dates (DGCP's own wording)

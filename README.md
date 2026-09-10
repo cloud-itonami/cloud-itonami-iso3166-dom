@@ -45,7 +45,7 @@ as `cloud-itonami-iso3166-caf`/`-btn`/`-bwa`:
   interest exclusion, tiered 1-year/6-month by official rank plus
   consortium-contamination) -- unlike CAF/BTN/BWA's sampled siblings,
   which all leave this honestly nil.
-- `src/statute/facts.cljc` -- general-law catalog: Ley 16-92 (Código de
+- `src/statute/facts.kotoba` -- general-law catalog: Ley 16-92 (Código de
   Trabajo, read directly off the Ministerio de Trabajo's own hosted
   primary text) and Ley 479-08 (Ley General de las Sociedades
   Comerciales, modificada por la Ley 31-11, cited via DGII's own
@@ -72,7 +72,7 @@ Wave 1, in `com-junkawasaki/root`) — national dishes, protected products,
 beverages, crafts, festivals and heritage sites for the Dominican
 Republic:
 
-- `src/culture/facts.cljc` — the catalog, source of truth (keyed by
+- `src/culture/facts.kotoba` — the catalog, source of truth (keyed by
   uppercase ISO3, mirroring the fleet's `statute.facts` convention).
 - `schema/culture.edn` — DataScript schema.
 - `data/culture-tx.edn` — derived DataScript tx-data (regenerated from
